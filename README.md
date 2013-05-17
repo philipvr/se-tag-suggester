@@ -1,4 +1,4 @@
-# StackExchange Question Tagger
+# Stack Exchange Question Tag Suggester
 
 `tag_suggester.py` uses machine learning to suggest new tags for new questions on [Stack Exchange][se] sites.
 
