@@ -10,7 +10,7 @@
 * [sklearn](http://scikit-learn.org/stable/install.html)
 
 ### Data
-[Stack Exchange][se] xml data dumps can be downloaded from [clearbits.com](http://www.clearbits.net/creators/146-stack-exchange-data-dump).
+[Stack Exchange][se] xml data dumps can be downloaded from the [Internet Archive](https://archive.org/details/stackexchange).
 
 ### Licence
 Copyright (c) 2013 Philip Van Ruitenbeek
